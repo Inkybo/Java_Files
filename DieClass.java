@@ -1,0 +1,13 @@
+public class DieClass
+{
+	
+////////////////////////////////////////////////////////////////////////////////
+	public int getRoll (int y)
+	{
+		return (int)(Math.random()*y+1);
+		
+		 
+	}
+
+
+}
